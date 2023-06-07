@@ -1,1 +1,1 @@
-deleting my_first_directory
+priting the previous working directory
