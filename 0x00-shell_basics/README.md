@@ -1,1 +1,1 @@
-listiing the current working directory contents including the hidden files in long format
+Listing permissions of all files in long format
