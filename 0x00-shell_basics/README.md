@@ -1,1 +1,1 @@
-list contents in a file
+changing directory to home
