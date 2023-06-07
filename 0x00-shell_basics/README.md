@@ -1,1 +1,1 @@
-creation of a directory in /tmp
+moving betty file to my_first_directory
