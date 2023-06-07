@@ -1,1 +1,1 @@
-Printing the current working directory
+list contents in a file
