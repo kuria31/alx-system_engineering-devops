@@ -1,1 +1,1 @@
-Creating multiple directories
+listing directories in long format
