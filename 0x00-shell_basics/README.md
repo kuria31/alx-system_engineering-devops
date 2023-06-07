@@ -1,1 +1,1 @@
-creating a directory in/tmp
+creation of a directory in /tmp
