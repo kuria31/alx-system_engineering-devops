@@ -1,1 +1,1 @@
-moving betty file to my_first_directory
+deleting betty
