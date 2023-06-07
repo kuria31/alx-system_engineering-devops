@@ -1,1 +1,1 @@
-copying hmtl files
+moving files beginning with upper case
