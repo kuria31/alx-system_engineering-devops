@@ -1,2 +1,2 @@
 #!/bin/bash
-ls iacta|sort|head -n 3
+cat iacta|sort|head -n 3
